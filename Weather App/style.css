@@ -253,3 +253,14 @@ body {
 .btn-primary[disabled]::before {
     display: none;
 }
+
+/* Header 2 */
+
+.search-view,
+.header .btn-primary .span {
+    display: none;
+}
+
+.logo img {
+    width: 150px;
+}
