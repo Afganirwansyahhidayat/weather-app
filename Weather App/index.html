@@ -33,8 +33,33 @@
                 </button>
             </div>
 
-            <div class="search-result">
-                
+            <div class="search-result" data-search-result>
+                <ul class="view-list" data-search-list>
+                    <li class="view-item">
+                        <span class="m-icon">location_on</span>
+
+                        <div>
+                            <p class="item-title">Jakarta</p>
+
+                            <p class="label-2 item-subtitle">State of Jakarta, ID</p>
+                        </div>
+
+                        <a href="#" class="item-link has-state" data-search-toggler></a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="header-actions">
+
+                <button class="icon-btn has-state" aria-label="open search" data-search-toggler>
+                    <span class="m-icon icon">search</span>
+                </button>
+
+                <a href="#/current-location" class="btn-primary has-state" data-current-location-btn>
+                    <span class="m-icon">my_location</span>
+                    <span class="span">Current Location</span>
+                </a>
+
             </div>
 
         </div>
