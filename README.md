@@ -37,3 +37,6 @@ Main Page
   After Search City
   ![Main Page](https://github.com/Afganirwansyahhidayat/weather-app/blob/main/Weather%20App/Screenshots/Screenshot%20(116).png?raw=true)
 
+  ## License
+This project is licensed under the [MIT License.](https://github.com/Afganirwansyahhidayat/weather-app/blob/main/LICENSE/) See the LICENSE file for more details.
+
