@@ -25,7 +25,7 @@ Clone this repository:
    ```
 
 ## Usage
-- Open the application in your browser.
+- Open this project using live server.
 - Use the search bar to find weather information for any city.
 - View detailed daily highlights, forecasts, and air quality updates.
 
