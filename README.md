@@ -28,3 +28,5 @@ Clone this repository:
 - Open the application in your browser.
 - Use the search bar to find weather information for any city.
 - View detailed daily highlights, forecasts, and air quality updates.
+
+## Screenshots
