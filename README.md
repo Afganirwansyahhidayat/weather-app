@@ -24,6 +24,8 @@ Clone this repository:
    node .
    ```
 
+get your [ApiKey](https://openweathermap.org/api/)
+
 ## Usage
 - Open this project using live server.
 - Use the search bar to find weather information for any city.
@@ -39,4 +41,6 @@ Main Page
 
   ## License
 This project is licensed under the [MIT License.](https://github.com/Afganirwansyahhidayat/weather-app/blob/main/LICENSE/) See the LICENSE file for more details.
+
+
 
