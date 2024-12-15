@@ -19,7 +19,7 @@ This application is built with the following technologies:
 To set up the project locally, follow these steps:
 Clone this repository:
    ```bash
-   git clone https://github.com/username/weather-app.git
+   git clone https://github.com/Afganirwansyahhidayat/weather-app
    cd weather-app
    node .
    ```
