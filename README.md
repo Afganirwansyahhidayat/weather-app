@@ -30,7 +30,7 @@ To set up the project locally, follow these steps:
 - View detailed daily highlights, forecasts, and air quality updates.
 
 ## Screenshots
-Main Page
+- Main Page
  ![Main Page](https://github.com/Afganirwansyahhidayat/weather-app/blob/main/Weather%20App/Screenshots/Screenshot%20(109).png?raw=true)
  Search City
   ![Main Page](https://github.com/Afganirwansyahhidayat/weather-app/blob/main/Weather%20App/Screenshots/Screenshot%20(114).png?raw=true)
