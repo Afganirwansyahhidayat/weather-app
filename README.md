@@ -17,9 +17,11 @@ This application is built with the following technologies:
 
 ## Installation
 To set up the project locally, follow these steps:
-- Clone this repository in your visual code studio :
+- Clone this repository in your terminal :
    ```bash
    git clone https://github.com/Afganirwansyahhidayat/weather-app
+   cd weather-app
+   code .
    ```
 - Get your [ApiKey](https://openweathermap.org/api/)
 - After getting it, you can edit in [here](https://github.com/Afganirwansyahhidayat/weather-app/blob/main/Weather%20App/assets/js/api.js)
