@@ -25,7 +25,6 @@ To set up the project locally, follow these steps:
    ```
 - Get your [ApiKey](https://openweathermap.org/api/)
 - After getting it, you can edit in [here](https://github.com/Afganirwansyahhidayat/weather-app/blob/main/Weather%20App/assets/js/api.js)
-- And run it in your terminal
 
 ## Usage
 - Open this project using live server.
